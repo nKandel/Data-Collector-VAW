@@ -1,0 +1,12 @@
+send sms with keyword begin with 
+
+apiawas <<anything you want to post>>
+
+and send it to 5455
+
+Public View [url]
+
+http://bibeksubedi.com.np/hackathon/public/
+
+Admin View [url]
+http://bibeksubedi.com.np/hackathon/public/admin
