@@ -1,0 +1,6 @@
+Public View
+
+http://bibeksubedi.com.np/hackathon/public/
+
+Admin View
+http://bibeksubedi.com.np/hackathon/public/admin
